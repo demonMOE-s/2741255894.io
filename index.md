@@ -4,6 +4,6 @@ Kit:WTL/DirectX
 Source:n/a  
 Bin:n/a  
 Screenshot:    
-![avatar](https://imgchr.com/i/iTS93T)  
-![avatar](https://imgchr.com/i/iozxNq)  
-![avatar](https://imgchr.com/i/iTSpCV)  
+[![iTS93T.png](https://s1.ax1x.com/2018/11/06/iTS93T.png)](https://imgchr.com/i/iTS93T)
+[![iozxNq.png](https://s1.ax1x.com/2018/11/06/iozxNq.png)](https://imgchr.com/i/iozxNq)
+[![iTSpCV.png](https://s1.ax1x.com/2018/11/06/iTSpCV.png)](https://imgchr.com/i/iTSpCV)  
